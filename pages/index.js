@@ -10,9 +10,9 @@ export default function Home() {
     <Layout>
       <section>
         <p className={utilsStyles.headingMd}>
-          Build and deploy on the AI Cloud. Vercel provides the developer tools
-          and cloud infrastructure to build, scale, and secure a faster, more
-          personalized web.
+          テストテスト！Build and deploy on the AI Cloud. Vercel provides the
+          developer tools and cloud infrastructure to build, scale, and secure a
+          faster, more personalized web.
         </p>
       </section>
       <div className={styles.grid}>
