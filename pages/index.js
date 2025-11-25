@@ -25,7 +25,7 @@ export default function Home() {
             />
           </Link>
           <Link href="/" className={utilsStyles.boldText}>
-            LoginSign Up. Log in to Vercel. Continue with Email. Continue
+            LoginSign Up! Log in to Vercel. Continue with Email. Continue
           </Link>
           <br />
           <small className={utilsStyles.lightText}>Nomember 21, 2025</small>
